@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AMITTT7
-- 👀 I’m interested in ... robotics and software
-- 🌱 I’m currently learning ... automation and robotics
-- 💞️ I’m looking to collaborate on ... projects of autocad electrical or PLC's programing 
-- 📫 How to reach me ...my email id is amitsakhare2417@gmail.com
+- 👀 I’m interested in ... Business and software
+- 🌱 I’m currently learning ... Data analystics and Business analystics
+- 💞️ I’m looking to collaborate on ... projects Data science & data analysis
+- 📫 How to reach me ...my email id is amitsakhare41@gmail.com/amitsakhare000@gmail.com
 
 <!---
 AMITTT7/AMITTT7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
